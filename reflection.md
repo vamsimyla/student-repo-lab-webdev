@@ -34,3 +34,21 @@ Enter your reflections on this section here.
 
 4. Were there other exercises that might have helped you learn this week’s topic a little better?
    A. Even though this lab has only one exercise, and I did it easily, as I learned to run accessibility tests for the previous labs and homework 1 as well, I gained proper basics from this week's topic.
+
+### CSS Exercises
+
+Enter your reflections on this section here.
+
+03-css
+
+1. Were you able to complete the exercises on your own, or did you use the videos or the solutions for help?
+   A. I took help of the videos posted as playlist in Canvas, to make sure all the values like the pixels, colors are assigned correctly.
+
+2. How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+   A. All the exercises in 03-css lab are really good. The media queries exercise helped me to understand the pixel and layout adjustments.
+
+3. Was there something that you wish had been explained better?
+   A. No, I found this lab exercise pretty straight-forward and easy to understand.
+
+4. Were there other exercises that might have helped you learn this week’s topic a little better?
+   A. I feel these exercises for this week are more than enough in getting a basic idea of the topic and practicing the same makes this even better. These exercises are great.
