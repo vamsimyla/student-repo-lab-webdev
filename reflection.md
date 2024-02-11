@@ -52,3 +52,53 @@ Enter your reflections on this section here.
 
 4. Were there other exercises that might have helped you learn this week’s topic a little better?
    A. I feel these exercises for this week are more than enough in getting a basic idea of the topic and practicing the same makes this even better. These exercises are great.
+
+### CSS Exercises
+
+Enter your reflections on this section here.
+
+04-flexbox
+
+1. Were you able to complete the exercises on your own, or did you use the videos or the solutions for help?
+   A. I took help of the videos posted as playlist in Canvas, to make sure all the values are assigned correctly assigned and this exercise is a bit challenging, as those adjustments for each flex container took a good amount of time.
+
+2. How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+   A. The flexbox exercise is definitely a challenging one that helped me to learn new css related components like the usage of flex-flow.
+
+3. Was there something that you wish had been explained better?
+   A. I think the lecture videos have clear explanation of the concepts. While implementing it in real time it was challenging at first, yet watching the lecture and trying the exercise multiple times helped me to gain proper understanding of the exercise.
+
+4. Were there other exercises that might have helped you learn this week’s topic a little better?
+   A. Since I started learning CSS from last week, I got a bit used to it like how to use the css properties. Doing this week exercises helped me to gain new information from css. This is a really great exercise to learn.
+
+05-css-grid
+
+1. Were you able to complete the exercises on your own, or did you use the videos or the solutions for help?
+   A. Implementation of grid and sorting them is something new to me. I took help of the videos posted in Canvas and learned how to implement them in real time.
+
+2. How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+   A. Since the grids are something new to learn for me, the exercises provided me a good start to learn about this topic. I learned alot regarding the sorting of grids and adjusting them.
+
+3. Was there something that you wish had been explained better?
+   A.Everything has been clearly explained in the videos.I dont think there is anything I did not understand properly from this lecture videos.
+
+4. Were there other exercises that might have helped you learn this week’s topic a little better?
+   A. Since I started learning CSS from last week, I got a bit used to it like how to use the css properties. Doing challenging exercises like the grid one for this week exercises helped me to gain new knowledge. This is a really great exercise to learn.
+
+### BOOTSTRAP EXERCISES
+
+Enter your reflections on this section here.
+
+06 - bootstrap exercise
+
+1. Were you able to complete the exercises on your own, or did you use the videos or the solutions for help?
+   A. I took help of the videos posted as playlist in Canvas, as I am starting a new topic. While I have a rough idea on Bootstrap and now by watching the lecture videos and implementing them in the exercises helped me to get a firm idea regarding the same.
+
+2. How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+   A. All the Bootstrap exercises are great and every exercise helped me to gain more knowledge in that topic.
+
+3. Was there something that you wish had been explained better?
+   A. I think the lecture videos have clear explanation of the concepts. While implementing it in real time it was challenging at first, yet watching the lecture and trying the exercise multiple times helped me to gain proper understanding of the exercises.
+
+4. Were there other exercises that might have helped you learn this week’s topic a little better?
+   A. Since it is a new topic for me and have four exercises, these helped me to gain a better understanding of the topic. I enjoyed doing these exercises.
