@@ -1,48 +1,45 @@
-// Exercise #1:
-// When the user clicks the 'copy' button, copy the user input to the output area
+$(document).ready(() => {
+  const url = "https://anapioficeandfire.com/api/books/";
 
-// Option #1
-// Fetch JavaScript objects representing specific elements in the DOM
-let userInput1 = document.querySelector('#userInput1');
-let copy = document.querySelector('#copy');
-let output1 = document.querySelector('#output1');
+  // jQuery-consistent way to remove padding
+  $("#books").css("padding-left", 0);
 
-// Add an event listener on the target element
-copy.addEventListener('click', handleClick);
+  const addBookToDOM = (item) => {
+    console.log(item.name);
 
-// Callback function to handle event
-function handleClick(event) {
-  console.log('click event', event);
-  output1.textContent = userInput1.value;
-}
+    $("#books").append(
+      $("<div>")
+        .css({
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "center",
+          marginTop: "20px",
+        })
+        .append($("<h2>").text(item.name))
+        .append($("<p>").text(item.authors.join(", "))) // Assuming there could be multiple authors
+        .append($("<p>").text(item.released.substr(0, 4)))
+        .append($("<p>").text(item.numberOfPages + " pages")) // Corrected to concatenate the number of pages
+    );
+  };
 
-// Option #2
-// document.getElementById('copy').onclick = () => {
-//   let userInput = document.getElementById('userInput1');
-//   let output = document.getElementById('output');
+  const fetchData = (url) => {
+    $.ajax({
+      type: "GET",
+      url: url,
+      success: (data) => {
+        data.forEach(addBookToDOM); // Simplified by passing the function directly
+      },
+      error: (error) => {
+        console.error(error);
+        $("#books").append(
+          $("<div>").text("An error occurred. Please try again.")
+        );
+      },
+      complete: () => {
+        $("#loading").remove(); // jQuery to remove the loading element
+      },
+    });
+  };
 
-//   output.textContent = userInput.value;
-// };
-
-// Option #3
-// document.getElementById('copy').onclick = () => {
-//   document.getElementById('output').textContent = document.getElementById(
-//     'userInput1'
-//   ).value;
-// };
-
-// Exercise #2:
-// When the user enters input text, copy the user input to the output area
-
-// Fetch JavaScript objects representing specific elements in the DOM
-let userInput2 = document.querySelector('#userInput2');
-let output2 = document.querySelector('#output2');
-
-// Add an event listener on the target element
-userInput2.addEventListener('input', handleInput);
-
-// Callback function to handle event
-function handleInput(event) {
-  console.log('click event', event);
-  output2.textContent = userInput2.value;
-}
+  fetchData(url);
+});

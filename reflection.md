@@ -98,7 +98,43 @@ Enter your reflections on this section here.
    A. All the Bootstrap exercises are great and every exercise helped me to gain more knowledge in that topic.
 
 3. Was there something that you wish had been explained better?
-   A. I think the lecture videos have clear explanation of the concepts. While implementing it in real time it was challenging at first, yet watching the lecture and trying the exercise multiple times helped me to gain proper understanding of the exercises.
+   A. I felt it could be more beneficial if the videos included how to resolve the alerts/errors coming from the WAVE accessibility test. Other than that, I think the lecture videos have clear explanation of the concepts. While implementing it in real time it was challenging at first, yet watching the lecture and trying the exercise multiple times helped me to gain proper understanding of the exercises.
 
 4. Were there other exercises that might have helped you learn this week’s topic a little better?
    A. Since it is a new topic for me and have four exercises, these helped me to gain a better understanding of the topic. I enjoyed doing these exercises.
+
+### JAVASCRIPT
+
+Enter your reflections on this section here.
+
+07-javascript
+
+1. Were you able to complete the exercises on your own, or did you use the videos or the solutions for help?
+   A. I felt javascript is challenging. I took help of the videos posted as playlist in Canvas. While I have a rough idea on javascript and now by watching the lecture videos and implementing them in the exercises helped me to get a firm idea regarding the same.
+
+2. How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+   A. These javascript exercises are more than enough to get a basic idea on the concepts. I learned a lot from functional.js and destructuring.js exercises.
+
+3. Was there something that you wish had been explained better?
+   A. I think the lecture videos have clear explanation of the concepts. While implementing it in real time it was challenging at first, yet watching the lecture and trying the exercise multiple times helped me to gain proper understanding of the exercises.
+
+4. Were there other exercises that might have helped you learn this week’s topic a little better?
+   A. Having seven exercises, helped me to gain a better understanding of the topic. I enjoyed doing these exercises.
+
+### JQUERY
+
+Enter your reflections on this section here.
+
+08-jquery
+
+1. Were you able to complete the exercises on your own, or did you use the videos or the solutions for help?
+   A. I watched videos to get an idea about the concept. I felt it is similar to what I did in javascript. The previous javascript exercises helped me in completing these jquery exercises.
+
+2. How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+   A. Both the exercises helped in understanding and gaining proper knowledge in jquery.
+
+3. Was there something that you wish had been explained better?
+   A. I think the lecture videos have clear explanation of the concepts. While implementing it in real time it was challenging at first, yet watching the lecture and trying the exercise multiple times helped me to gain proper understanding of the exercises. I felt it could be more beneficial if the videos included how to resolve the alerts/errors, coming from the WAVE accessibility test.
+
+4. Were there other exercises that might have helped you learn this week’s topic a little better?
+   A. The previous javascript exercises and the lecture videos helped me to gain better understanding of the jquery concepts.
