@@ -19,7 +19,7 @@ $(document).ready(() => {
         .append($("<h2>").text(item.name))
         .append($("<p>").text(item.authors[0]))
         .append($("<p>").text(item.released.substr(0, 4)))
-        .append($("<p>").text(`$(item.numberOfPages) pages`))
+        .append($("<p>").text(`${item.numberOfPages} pages`))
     );
   };
   const fetchData = (url) => {
