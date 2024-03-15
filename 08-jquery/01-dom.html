@@ -11,23 +11,23 @@
   </head>
   <body>
     <main>
-      <h1></h1>
+      <h1>01-dom</h1>
       <section>
         <h2>Click Event</h2>
         <label for="userInput1">Input</label>
         <input id="userInput1" type="text" />
         <input type="button" value="Copy Text" id="copy" />
         <br />
-        <label for="output1">Output</label>
-        <div id="output1" class="output"></div>
+        <div id="outputLabel1" class="visually-hidden">Output</div>
+        <div id="output1" class="output" aria-labelledby="outputLabel1"></div>
       </section>
       <section id="inputEventExample">
         <h2>Input Event</h2>
         <label for="userInput2">Input</label>
         <input id="userInput2" type="text" />
         <br />
-        <label for="output2">Output</label>
-        <div id="output2" class="output"></div>
+        <div id="outputLabel2" class="visually-hidden">Output</div>
+        <div id="output2" class="output" aria-labelledby="outputLabel2"></div>
       </section>
     </main>
   </body>
